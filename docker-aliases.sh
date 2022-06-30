@@ -5,7 +5,7 @@
 #     # Installation :                                                     #
 #     copy/paste these lines into your .bashrc or .zshrc file or just      #
 #     type the following in your current shell to try it out:              #
-#     wget -O - https://gist.githubusercontent.com/jgrodziski/9ed4a17709baad10dbcd4530b60dfcbb/raw/d84ef1741c59e7ab07fb055a70df1830584c6c18/docker-aliases.sh | bash
+#     wget -O - https://raw.githubusercontent.com/thomasimmer/dockerscript/main/docker-aliases.sh | bash
 #                                                                          #
 #     # Usage:                                                             #
 #     daws <svc> <cmd> <opts> : aws cli in docker with <svc> <cmd> <opts>  #
